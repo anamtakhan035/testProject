@@ -1,3 +1,2 @@
 # testProject
-
-Please accept my pull request.
+testing project
